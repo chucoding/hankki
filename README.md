@@ -22,9 +22,9 @@
    * 비기능 요구 - 포트포워딩을 통한 외부 IP 접속 허용
    * 비즈니스 이익 기술 - 음식점 길찾기를 통한 상업용 이익 창출
    * 시스템 구조(아키텍처)
-   <img src="/system-architecture"></img>
+   <img src="/system-architecture.png"></img>
    * 시스템 설계도
-   <img src="/system-design"></img>
+   <img src="/system-design.png"></img>
    
 **4. 구현 결과**
 
